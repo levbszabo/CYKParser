@@ -1,5 +1,6 @@
 # CYKParser
-Implementation of a Probabilistic CYK Parser 
+
+## Implementation of a Probabilistic CYK Parser 
 Developed in context of NYU Graduate Natural Language Processing Course
 
 We wish to parse sentences given specific grammar rules and their production
@@ -20,10 +21,10 @@ for "The Market is wondering waht General Motors has done." is shown below.
 ![Alt text](ParsingExample.JPG)
 
 
-**CODE** 
+## Code
 
-cykparser.py   : implementation of classes for grammar rules and Probabalistic Context Free Grammers (PCFG)
-eval.py        : calls cykparser methods and generates most likely parse tree for given datasets
-data           : contains grammar rules with probabilities for an arithmetic dataset and a wall street dataset
+* cykparser.py   : implementation of classes for grammar rules and Probabalistic Context Free Grammers (PCFG)
+* eval.py        : calls cykparser methods and generates most likely parse tree for given datasets
+* data           : contains grammar rules with probabilities for an arithmetic dataset and a wall street dataset
 
 [1]: Allen, James, Natural Language Understanding 2e, Benjamin Cummings, 1995.

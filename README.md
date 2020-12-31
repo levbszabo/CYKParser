@@ -3,7 +3,7 @@
 ## Implementation of a Probabilistic CYK Parser 
 Developed in context of NYU Graduate Natural Language Processing Course
 
-We wish to parse sentences given specific grammar rules and their production
+* We wish to parse sentences given specific grammar rules and their production
 probabilities over a corpus 
 
 * The figure below indicates grammar rules that give rise to a parse tree for the

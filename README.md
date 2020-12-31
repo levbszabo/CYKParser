@@ -16,7 +16,7 @@ more specifically the CYK Parsing Algorithm we can generate the most likely pars
 
 * The parsing algorithm is tested on a subset of the WSJ treebank dataset. Over 10,000
 grammar production rules are utilized to produce parse trees for new sentences. An example
-for "The Market is wondering waht General Motors has done." is shown below.
+for "The Market is wondering what General Motors has done." is shown below.
 
 ![Alt text](ParsingExample.JPG)
 

@@ -27,4 +27,5 @@ for "The Market is wondering what General Motors has done." is shown below.
 * data           : contains grammar rules with probabilities for an arithmetic dataset and a wall street dataset
 
 Developed in context of NYU Graduate Natural Language Processing Course
+
 [1]: Allen, James, Natural Language Understanding 2e, Benjamin Cummings, 1995.
